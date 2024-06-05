@@ -1,0 +1,6 @@
+---
+title: "Assignment 1"
+author: "Miranda Johnson, 22208561"
+format: pdf
+---
+
